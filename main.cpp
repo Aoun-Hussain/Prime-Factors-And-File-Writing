@@ -1,14 +1,3 @@
-/*
-Author: Aoun Hussain
-Class: ECE 6122-A
-Last Date Modified: Wed, Sep 22, 2021
-Description: This is the cpp source file for the solution of problem 1, lab 1.
-             This checks for all valid and invalid command line input to the file
-             and returns a string of prime factors of the number in argument
-             separated by commas.
-*/
-
-
 #include <cctype>
 #include <algorithm>
 #include <iostream>
